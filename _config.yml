@@ -1,0 +1,28 @@
+name: LucisPictor Photography
+favicon: null
+layout_spectrum: 0.5914298498537391
+typography_spectrum: 0.029732395196333528
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.31376698170788586
+  lightness: 0.4631664166226983
+  saturation: 0.5066996451932937
+  rhythmicContrast: 0.032821485539898276
+purpose: []
